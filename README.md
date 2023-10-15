@@ -17,5 +17,6 @@
 
 <br>
 <h3>Screenshots:</h3>
-![Screenshot 2023-10-15 110540](https://github.com/sairaj2003/react-project-hotel/assets/121667877/695a5c91-1356-4ef0-ba4f-ce671af4adf8)
-![logo](https://github.com/sairaj2003/React-project/blob/main/Screenshot%202023-08-24%20232450.png)
+
+![logo](https://github.com/sairaj2003/react-project-hotel/blob/main/Screenshot%202023-10-15%20110540.png)
+
